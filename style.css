@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    font-family: 'PT Serif', serif;
+}
+h1{
+    font-size: 50px;
+}
+.toon{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    margin-bottom: 200px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,  lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.middle-half{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.link-button2{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,  lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.middle{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}

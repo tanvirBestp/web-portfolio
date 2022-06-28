@@ -61,6 +61,7 @@ section{
 .one-experiance{
     box-shadow: 10px 10px 40px gray;
     height: 80%;
+    background-color: white;
 }
 .experiance{
     background-image: url("images/exp-bg.png");
